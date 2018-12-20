@@ -1,25 +1,22 @@
-<h3>Changelogs</h3>
+<h3>Changelogs Heaading</h3>
 <br>
 <h4>Date/Version Number</h4>
 <ul>
-<li>Something Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
+<li>Simple HTML</li>
+<li><font color="#2196F3">Changed</font></li>
+<li><font color="#F44336">Changed</font></li>
+<li><b>Changed</b></li>
+<li><i>Changed</i></li>
+<li><mark>Changed</mark></li>
+<li><del>Changed</del></li>
+<li><ins>Changed</ins></li>
+<li>C<sup>hang</sup>ed</li>
+<li>Ch<sub>an</sub>ged</li>
 <li>Changed</li>
 </ul>
 <br>
-<h4>Another Date/Version Number</h4>
-<ul>
+<h4><font color="black">Another Date/Version Number</font></h4>
+<ol>
 <li>Something Changed</li>
 <li>Changed</li>
 <li>Changed</li>
@@ -28,10 +25,4 @@
 <li>Changed</li>
 <li>Changed</li>
 <li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-</ul>
+</ol>
