@@ -1,6 +1,6 @@
-<center><h1>Changelogs</h1></center>
+<h3>Changelogs</h3>
 <br>
-<center><h2>Date/Version Number</h2></center>
+<h4>Date/Version Number</h4>
 <ul>
 <li>Something Changed</li>
 <li>Changed</li>
@@ -18,9 +18,7 @@
 <li>Changed</li>
 </ul>
 <br>
-<hr>
-<br>
-<center><h2>Another Date/Version Number</h2></center>
+<h4>Another Date/Version Number</h4>
 <ul>
 <li>Something Changed</li>
 <li>Changed</li>
