@@ -1,28 +1,14 @@
-<h3>Changelogs Heaading</h3>
+<h3>Changelogs</h3>
 <br>
-<h4>Date/Version Number</h4>
+<h4>0.2 Beta</h4>
 <ul>
-<li>Simple HTML</li>
-<li><font color="#2196F3">Changed</font></li>
-<li><font color="#F44336">Changed</font></li>
-<li><b>Changed</b></li>
-<li><i>Changed</i></li>
-<li><mark>Changed</mark></li>
-<li><del>Changed</del></li>
-<li><ins>Changed</ins></li>
-<li>C<sup>hang</sup>ed</li>
-<li>Ch<sub>an</sub>ged</li>
-<li>Changed</li>
+<li>Upstream 4.4.174.</li>
+<li>Tuned up Psycho stuff a little.</li>
+<li>Fixed Installation script, should fix most of the incompatible boot.img stuff automatically.</li>
+<br>
+<li>Added feedback section in the app to get in touch directly.</li>
+<li>Made Battery profile a little less aggressive.</li>
+<li>Fixed some crashes here and there and in the app.</li>
+<li>Reduced SU spam.</li>
 </ul>
 <br>
-<h4><font color="black">Another Date/Version Number</font></h4>
-<ol type="1">
-<li>Something Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-<li>Changed</li>
-</ol>
