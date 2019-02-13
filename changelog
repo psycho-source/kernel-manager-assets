@@ -3,6 +3,7 @@
 <h4>0.2 Beta</h4>
 <ul>
 <li>Upstream 4.4.174.</li>
+<li>Fixed KCal screen color washout</li>
 <li>Tuned up Psycho stuff a little.</li>
 <li>Fixed Installation script, should fix most of the incompatible boot.img stuff automatically.</li>
 <br>
