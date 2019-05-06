@@ -1,14 +1,19 @@
 <h3>Changelogs</h3>
 <br>
-<h4>0.3 Beta</h4>
+<h4>1.0 (Stable)</h4>
+<h5>Kernel</h5>
 <ul>
-<li>Upstream 4.4.176.</li>
-<li>Tuned up GPU for better bttery.</li>
-<li>Fixed Installation script, should fix most of the incompatible boot.img stuff automatically.</li>
-<li>Many more under the hood changes for overall improved smoothness.</li>
-<br>
-<li>Improved profiles.</li>
-<li>Improved UI further.</li>
-<li>Added more tuning options.</li>
+<li>Upstream 4.4.179.</li>
+<li>Tweaked GPU performance firther.</li>
+<li>Improved implementations of Psycho tweaks for better performance.</li>
+<li>Fixed the UI lags introduced in previous build. :)</li>
 </ul>
+<br>
+<h5>Application</h5>
+<ul>
+<li>Fixed a little fucky-wucky with white text over white bg on First Start.</li>
+</ul>
+<br>
+<b>P.S: </b>I am building up a better manager app from scratch with kotlin, it might take some time so there won,t be updates to the current application unless it's really required.
+Cheers
 <br>
