@@ -4,16 +4,8 @@
 <h5>Kernel</h5>
 <ul>
 <li>Upstream 4.4.179.</li>
-<li>Tweaked GPU performance firther.</li>
+<li>Tweaked GPU performance further.</li>
 <li>Improved implementations of Psycho tweaks for better performance.</li>
 <li>Fixed the UI lags introduced in previous build. :)</li>
 </ul>
-<br>
-<h5>Application</h5>
-<ul>
-<li>Fixed a little fucky-wucky with white text over white bg on First Start.</li>
-</ul>
-<br>
-<b>P.S: </b>I am building up a better manager app from scratch with kotlin, it might take some time so there won,t be updates to the current application unless it's really required.
-Cheers
 <br>
