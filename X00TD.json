@@ -1,9 +1,9 @@
 {
   "kernel-name": "Psycho-Kernel_X00TD",
-  "version": "1.0",
-  "url": "https://raw.githubusercontent.com/psycho-source/X00TD-Kernel-Builds/master/Psycho-Kernel-v1.0.zip",
-  "size": "20290062",
-  "md5": "dee7fc603e0722901ef4c60053e31582",
-  "sha256": "a207a4baccd47b1ce3406de78502cdd2bee243044fef46f14a46e55826f50806",
+  "version": "2.0",
+  "url": "https://raw.githubusercontent.com/psycho-source/X00TD-Kernel-Builds/master/Psycho-Kernel-v2.0.zip",
+  "size": "20326415",
+  "md5": "f8d940eb36ea60be49d98d604ce48bbb",
+  "sha256": "f5c88bc24c3079453b8814c10fd11c518f0eb0004632432bdcb7bcd63dc2e0ce",
   "changelog": "https://raw.githubusercontent.com/psycho-source/kernel-manager-assets/master/changelog"
 }
